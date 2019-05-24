@@ -1,3 +1,3 @@
 Hello github.
 try to edit file.
-create a new brunch.
+Create a new brunch.
